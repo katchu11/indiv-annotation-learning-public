@@ -1,0 +1,10 @@
+gensim
+pandas
+pot
+datasets
+evaluate
+numpy
+torch==1.13.1
+transformers
+scikit-learn
+wandb
